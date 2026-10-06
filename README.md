@@ -50,4 +50,4 @@
 
 ## 📫 Reach me
 
-[Website](https://portfolio-azure-eight-49.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rithvikh-katpelly-903105339/) · [LeetCode](https://leetcode.com/u/Rithvikh/) · rrkatpelly@ucdavis.edu
+[Website]https://www.rithvikhkatpelly.com/· [LinkedIn](https://www.linkedin.com/in/rithvikh-katpelly-903105339/) · [LeetCode](https://leetcode.com/u/Rithvikh/) · rrkatpelly@ucdavis.edu
