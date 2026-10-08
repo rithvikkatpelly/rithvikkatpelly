@@ -18,7 +18,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[UC Davis AI — MCP Server](https://github.com/rithvikkatpelly/MCP_UCDavis)** | Live MCP server on Cloud Run: RAG over UC Davis AI policy, web search, and an SSRF-guarded fetch tool. CI/CD auto-rolls back failed deploys. | MCP · pgvector · Docker · Cloud Run · GitHub Actions |
-| **[Econ Data Agent](https://github.com/rithvikkatpelly/Econ_FullStack)** | Supervisor + specialist agents over FRED and news data, built on Google ADK and verified live on Gemini; switchable to a native orchestrator. 20-case eval suite gates CI; hardened against prompt injection; Cloud Run + Vertex AI deploy-ready. | Google ADK · Gemini · Vertex AI · MCP · FastAPI · React |
+| **[Econ Data Agent](https://github.com/rithvikkatpelly/Econ_FullStack)** · [live demo](https://econ-data-frontend-kio6fmbpta-uc.a.run.app) | Supervisor + specialist agents over live FRED data, built on Google ADK and running on Gemini via Vertex AI. Live on Cloud Run with keyless CI/CD from GitHub. 25-case eval suite gates CI; a live Gemini eval went from 0/8 to 8/8 after prompt fixes it surfaced; hardened against prompt injection. | Google ADK · Gemini · Vertex AI · Cloud Run · MCP · FastAPI · React |
 | **[Aurea Studio](https://github.com/rithvikkatpelly/MAO)** *(in progress)* | Turns a topic into LinkedIn, Instagram, and X content. Research → pick an idea → write → design → export, with live progress over SSE. | LangGraph · FastAPI · React · PostgreSQL · Ollama |
 | **[Bank RAG Chatbot](https://github.com/rithvikkatpelly/Bank-Rag-Chatbot)** | Banking assistant grounded in policy documents, with a tool-calling retrieval agent and Streamlit UI. | Groq · FAISS · LangChain · Streamlit |
 
